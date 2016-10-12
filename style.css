@@ -12,11 +12,11 @@ body {
 }
 /* 畫面右移*/
 .page{
-	width: 940px;
+	width: 960px;
 	height: 708px;
 	margin-top: 50px;
-	margin-left: 150px;
-	margin-right: 150px;	
+	margin-left: 160px;
+	margin-right: 160px;	
 }
 /*header*/
 header{
