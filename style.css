@@ -199,17 +199,17 @@ footer {
 	width: 1260px;
 	height: 16px;
 	background-color:#889C5B;
-	padding-top: 24px;
-	padding-bottom:24px;
-	padding-left: 463px;
-	padding-right: 0px;
+	margin: 0px;
+	padding: 0px;
+	
 }
 footer p{
 	
 	font-family: Arial Black;
 	font-size: 12px;
 	color: #EDF2C5;
+	padding-top: 24px;
+	padding-bottom:24px;
+	padding-left: 463px;
 	
-	margin: 0px;
-	padding: 0px;
 }
