@@ -3,6 +3,7 @@ html {
 	background-color: #EDF2C5;
 	height:940px;
 	width: 1260px;
+	margin:auto;
 }
 .clear{
 	clear: both;
